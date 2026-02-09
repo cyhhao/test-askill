@@ -1,7 +1,7 @@
 ---
 name: local-publish-probe
 slug: local-publish-probe
-version: 0.1.0
+version: 0.1.1
 description: Skill used to validate local path publishing.
 author:
   name: cyhhao
