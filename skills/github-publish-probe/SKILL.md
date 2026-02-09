@@ -1,7 +1,7 @@
 ---
 name: github-publish-probe
 slug: github-publish-probe
-version: 0.1.0
+version: 0.1.1
 description: Skill used to validate GitHub blob URL publishing.
 author:
   name: cyhhao
@@ -22,3 +22,4 @@ This skill is for testing `askill publish --github <blob-url>`.
 ## Command
 
 - `ping`: prints a deterministic probe line.
+- publish hhhh
